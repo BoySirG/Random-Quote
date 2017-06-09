@@ -1,0 +1,50 @@
+html,body{
+	height: 100%;
+}
+
+#cover{
+	background-image:url(http://designhuntr.com/demo/full-width-background/images/Nature-Wallpaper-HD.jpeg);
+	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	height: 100%;
+	color: white;
+	display: flex;
+	text-align: center;
+
+	
+}
+
+.cover-cap{
+	width: 100%;
+
+}
+.shift{
+	margin-top: 7%;
+}
+
+.quotes{
+	padding: 20px;
+	box-shadow: 0 1px 5px 1px #999;
+	height: 200px auto;
+	border-radius: 10px;
+	width: 70%;
+	margin:auto;
+	
+}
+
+.mainquotes{
+
+}
+
+.author{
+text-align: right;
+margin-right: 20%;
+font-size: 150%;
+font-style: italic;
+font-weight: bold;
+}
+
+.nextquote{
+	text-align: right;
+}
